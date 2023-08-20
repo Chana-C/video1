@@ -1,5 +1,5 @@
 # video1
 Tirgul git from video bootcame refael
-***cpp
+```cpp
 int num = 10;
-***
+```
